@@ -21,7 +21,7 @@ public class DbContract {
         // columns
         public final static String _ID = BaseColumns._ID;
         public final static String COL_MONTH = "Month";
-        public final static String COL_TO_DO = "TO-DO";
+        public final static String COL_TO_DO = "TO_DO";
         public final static String COL_PROGRESS = "Progress";
 
         // month options
